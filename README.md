@@ -1,7 +1,7 @@
 # Freshco_HyperMarket_Analysis
 
 # Overview:
-  Welcome to the Freshco Hypermarket Analysis Project. This repository contains in-depth analysis of Freshco HyperMarket data using Microsoft Excel. The project aims to provide insigts into various aspects of Freshco's performance, including Order Level Analysis, Completion Rate Analysis, Customer Level Analysis and Delivery Level Analysis.
+  Welcome to the Freshco Hypermarket Analysis Project. This repository contains in-depth analysis of Freshco HyperMarket data using Microsoft Excel. Freshco Hypermarket, situated in HSR, Bangalore, has established itself as a prominent supermarket in the region, catering to a wide range of customers. The project aims to provide insigts into various aspects of Freshco's performance, including Order Level Analysis, Completion Rate Analysis, Customer Level Analysis and Delivery Level Analysis.
 
 # Problem Statement:
 # Order Level Analysis:
