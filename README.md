@@ -12,14 +12,12 @@
 5.    Calculate the discount as a percentage of the product amount at the drop area and slot level.
 
 # Completion Rate Analysis:
-
 6.    Identify Completion rate at slot vs day of the week (Sunday to Saturday) level. Can you spot some pattern in the data?
 7.    Calculate completion rate at drop area level.
 8.    Completion rate at number of products ordered level. For this first you need to create a column having number of product against every order.
 9.    Give your analysis on the any pattern you observe in the completion rate.
 
 # Customer Level Analysis:
-
 10.    Identify Completion rate at source level.
 11.    Calculate LTV for every customer.
 12.    Calculate aggregated LTV at customer acquisition source level. Refer to aggregated LTV example.
@@ -29,9 +27,11 @@
 16.    Is there any pattern in order rating across slots, number of items placed, delivery charges, discount. For example, there might be an insight from the data that orders placed during late night are generally rated high. While orders placed in early morning are not rated high. OR orders having more than 5 items are generally rated high. 
 
 # Delivery Analysis:
-
 17.    Calculate average overall delivery time at month and delivery area level.
 18.    Calculate average overall delivery time at month and weekday/weekend level. You might need to create a column which will tag every date to either weekday or weekend.
 19.    Calculate average overall delivery time at slot level. Refer to the definition of slot.
 20.    Do you see any pattern in delivery charges with slot or delivery area.
 21.    Do you see any pattern in delivery time and delivery area. If yes then find out logical reason.
+
+# Project Output:
+  The project output includes various visualizations such as Graphs and Charts, which provide insights into the trends and patterns of Analysis.
