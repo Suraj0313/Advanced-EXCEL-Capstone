@@ -1,7 +1,7 @@
 # Freshco_HyperMarket_Analysis
 
 # Overview:
-  Welcome to the Freshco Hypermarket Analysis Project. This repository contains in-depth analysis of Freshco HyperMarket data using Microsoft Excel. The project aims to provide insiigts into various aspects of Freshco's performance, including Order Level Analysis, Completion Rate Analysis, Customer Level Analysis and Delivery Level Analysis.
+  Welcome to the Freshco Hypermarket Analysis Project. This repository contains in-depth analysis of Freshco HyperMarket data using Microsoft Excel. The project aims to provide insigts into various aspects of Freshco's performance, including Order Level Analysis, Completion Rate Analysis, Customer Level Analysis and Delivery Level Analysis.
 
 # Problem Statement:
 # Order Level Analysis:
