@@ -1,37 +1,37 @@
 # Freshco_HyperMarket_Analysis
 
-# Overview:
+# Overview
   Welcome to the Freshco Hypermarket Analysis Project. This repository contains in-depth analysis of Freshco HyperMarket data using Microsoft Excel. Freshco Hypermarket, situated in HSR, Bangalore, has established itself as a prominent supermarket in the region, catering to a wide range of customers. The project aims to provide insigts into various aspects of Freshco's performance, including Order Level Analysis, Completion Rate Analysis, Customer Level Analysis and Delivery Level Analysis.
 
-# Problem Statement:
-# Order Level Analysis:
-1.    Identify order distribution at slot and delivery area levels.
-2.    Identify the areas having the highest increase in monthly orders (from Jan to Sep) in absolute orders.
-3.    Calculate delivery charges as a percentage of product amount at slot and month level.
-4.    Calculate discount as a percentage of product amount at slot and month level.
-5.    Calculate the discount as a percentage of the product amount at the drop area and slot level.
+# Key Insights
+## Order Level Analysis
+1. **Order Distribution at Area Level**
+   - **Finding:** A large percentage of orders are concentrated in specific areas, with HSR Layout accounting for 71% of orders.
+   - **Challenges:** Areas with low order distribution are influenced by factors such as distant delivery locations, lack of awareness of delivery services, and competition.
 
-# Completion Rate Analysis:
-6.    Identify Completion rate at slot vs day of the week (Sunday to Saturday) level. Can you spot some pattern in the data?
-7.    Calculate completion rate at drop area level.
-8.    Completion rate at number of products ordered level. For this first you need to create a column having number of product against every order.
-9.    Give your analysis on the any pattern you observe in the completion rate.
+2. **Completion Rate Analysis**
+   - **Slot vs Day of the Week:** The analysis shows variations in completion rates depending on the time slot and day, with the lowest rates observed in night slots, particularly on Saturdays.
+   - **Drop Area Level:** Bommanahalli exhibits the highest completion rate at 97.72%, while some areas show significantly lower rates, indicating potential operational challenges.
+   - **Acquisition Source Level:** Slight differences in completion rates across acquisition channels suggest varying levels of customer engagement and effectiveness of marketing efforts.
 
-# Customer Level Analysis:
-10.    Identify Completion rate at source level.
-11.    Calculate LTV for every customer.
-12.    Calculate aggregated LTV at customer acquisition source level. Refer to aggregated LTV example.
-13.    Calculate aggregated  LTV at acquisition month level. Refer to aggregated LTV example.
-14.    What is the average Revenue(Product amount after discount) per order at different customer acquisition source level?
-15.    What is the average Revenue(Product amount after discount) per order at acquisition month level?
-16.    Is there any pattern in order rating across slots, number of items placed, delivery charges, discount. For example, there might be an insight from the data that orders placed during late night are generally rated high. While orders placed in early morning are not rated high. OR orders having more than 5 items are generally rated high. 
+3. **Number of Products Ordered**
+   - **Finding:** Completion rates fluctuate with the number of products ordered, indicating potential challenges in handling larger orders.
 
-# Delivery Analysis:
-17.    Calculate average overall delivery time at month and delivery area level.
-18.    Calculate average overall delivery time at month and weekday/weekend level. You might need to create a column which will tag every date to either weekday or weekend.
-19.    Calculate average overall delivery time at slot level. Refer to the definition of slot.
-20.    Do you see any pattern in delivery charges with slot or delivery area.
-21.    Do you see any pattern in delivery time and delivery area. If yes then find out logical reason.
+## Customer Level Analysis
+1. **Customer Acquisition and Behavior**
+   - **User Acquisition:** Most customers were acquired through Instagram, Offline Campaigns, and Google, while Organic and Snapchat also contributed significantly.
+   - **Order Distribution:** Google accounted for 23% of total orders, with other channels like Instagram, Offline Campaigns, and Organic sources showing substantial shares as well.
 
-# Project Output:
-  The project output includes various visualizations such as Graphs and Charts, which provide insights into the trends and patterns of Analysis.
+2. **Customer Lifetime Value (LTV)**
+   - **Distribution:** A significant portion of users have an LTV below 5000, with a small percentage reaching higher LTV brackets.
+   - **Top Customers:** The top 10 customers have LTVs ranging from 39,474 to 64,062, highlighting the importance of nurturing high-value customers.
+
+3. **Revenue Trends**
+   - **Monthly Revenue:** Revenue shows a steady increase from January to September 2021, with a sharp rise in September, indicating successful strategies or seasonal impacts.
+
+# Tools and Technologies
+- **Microsoft Excel:** For data analysis and visualization.
+- **PowerPoint:** For presentation and communication of findings.
+
+# Conclusion
+  This project highlights key operational challenges and opportunities in the e-commerce platform's delivery and customer management processes. By addressing the identified inefficiencies and leveraging the insights gained, the business can enhance its operational efficiency, improve customer satisfaction, and achieve sustainable growth.
